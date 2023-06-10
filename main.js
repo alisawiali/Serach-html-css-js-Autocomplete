@@ -27,6 +27,7 @@ inputBox.onkeyup = function () {
       return e.toLowerCase().includes(input.toLowerCase());
     });
   }
+
   dispaly(result);
 };
 
